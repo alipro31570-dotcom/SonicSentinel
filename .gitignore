@@ -1,0 +1,7 @@
+Dataset/audio/
+Dataset/categorized_audio/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
